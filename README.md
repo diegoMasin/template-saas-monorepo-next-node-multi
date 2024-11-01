@@ -1,9 +1,13 @@
 ![Alt text](https://raw.githubusercontent.com/diegoMasin/landing-maximumtech/master/assets/img/new-logo-mt-01.png)
 <br><br>
 
-# Estudos - Codificando um Saas em NextJS + NodeJS
+# Template - Saas em NextJS + NodeJS
 
-###### Monorepo & Multi-tenant & modelo RBAC de autenticação & Fastify & Prisma
+###### main Branch: Monorepo & Multi-tenant & modelo RBAC de autenticação & Fastify & Prisma
+
+###### start-monorepo: Monorepo
+
+###### start-monorepo-next-node: Monorepo & Next+Node
 
 ## Requirements
 
