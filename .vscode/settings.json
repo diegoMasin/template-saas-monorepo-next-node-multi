@@ -48,4 +48,9 @@
     "editor.defaultFormatter": "Prisma.prisma"
   },
   "editor.inlineSuggest.enabled": true,
+  "eslint.workingDirectories": [
+    {
+      "mode": "auto"
+    }
+  ]
 }
